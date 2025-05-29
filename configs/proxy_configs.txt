@@ -186,7 +186,7 @@ vless://4c511b03-55b2-44df-bdb3-c07a18b2b864@65.109.202.140:443?security=&encryp
 
 vless://4e9d0901-16c7-496b-992b-22387a92c6bc@[2a01:4f8:1c1b:3e2::1]:443?mode=gun&security=reality&encryption=none&authority=&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#@fastkanfig+chanl+telegram
 
-vless://4fd16f19-a4eb-4c99-888e-07af121173d8@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🤴
+vless://4fd16f19-a4eb-4c99-888e-07af121173d8@194.182.79.113:26468?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🐤
 
 vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C%20%40Outlinev_2rayNG
 
@@ -295,10 +295,9 @@ hysteria2://04d1fa77-25ee-4f14-9325-2a3d1a2e929e@156.229.160.130:443?mport=20001
 hysteria2://06130ef4-30cd-46cb-8f5b-f8fa8a4b9595@212.192.12.154:33002?insecure=1&obfs=salamander&obfs-password=M2UyNTc5OWUwYjkyM2Q2OQ%3D%3D#🔒 HYSTERIA-UDP 🇭🇰 HK-212.192.12.154:33002
 
 hysteria2://08f17296-8895-4461-b07f-8946af933831@167.234.208.240:35000?insecure=1&sni=tv.apple.com#🔒 HYSTERIA-UDP 🇺🇸 US-167.234.208.240:35000
-hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.24.219:443
 
 hysteria2://08f17296-8895-4461-b07f-8946af933831@167.234.208.240:35000?insecure=1&sni=tv.apple.com#🔒 HYSTERIA-UDP 🇺🇸 US-167.234.208.240:35000
-hysteria://195.154.200.40:15010?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#🔒 HYSTERIA-UDP 🇫🇷 FR-195.154.200.40:15010
+hysteria://130.61.24.219:443?mport=6000-21000&insecure=1&auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&upmbps=30&downmbps=70&alpn=h3#🔒 HYSTERIA-UDP 🇩🇪 DE-130.61.24.219:443
 
 hysteria2://08f17296-8895-4461-b07f-8946af933831@167.234.210.122:35000?insecure=1&sni=www.apple.com#🔒 HYSTERIA-UDP 🇺🇸 US-167.234.210.122:35000
 
@@ -360,9 +359,6 @@ hysteria2://2af14ba2-1a50-4e86-9eb9-b9c78f3507dc@18.162.213.220:60007?insecure=1
 
 hysteria2://2af14ba2-1a50-4e86-9eb9-b9c78f3507dc@54.169.234.79:60007?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-54.169.234.79:60007
 
-hysteria2://2af14ba2-1a50-4e86-9eb9-b9c78f3507dc@54.169.234.79:60007?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-54.169.234.79:60007
-hysteria://195.154.200.178:46938?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇫🇷 FR-195.154.200.178:46938
-
 hysteria2://3a514c32-65f4-11ea-97ba-f23c913c8d2b@107.167.18.102:8443?insecure=1&sni=d525af0e-swd340-tcrvlr-r84q.hy2.gotochinatown.net#🔒 HYSTERIA-UDP 🇺🇸 US-107.167.18.102:8443
 
 hysteria2://43326134-a0c8-4149-8a6d-8128791a16c7@140.245.35.177:5002?insecure=1&sni=d1--cn-gotcha204-3.bilivideo.com#🔒 HYSTERIA-UDP 🇸🇬 SG-140.245.35.177:5002
@@ -407,7 +403,7 @@ hysteria2://53bdfd4a-7f38-4cb6-b07e-49974de1a800@152.53.225.161:25560?insecure=1
 hysteria2://53bdfd4a-7f38-4cb6-b07e-49974de1a800@160.22.156.7:22106?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-160.22.156.7:22106
 
 hysteria2://53bdfd4a-7f38-4cb6-b07e-49974de1a800@160.22.156.7:22106?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇭🇰 HK-160.22.156.7:22106
-hysteria://176.32.35.226:62003?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇷🇺 RU-176.32.35.226:62003
+hysteria://195.154.200.178:46938?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇫🇷 FR-195.154.200.178:46938
 
 hysteria2://53bdfd4a-7f38-4cb6-b07e-49974de1a800@51.79.141.63:25022?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇬 SG-51.79.141.63:25022
 
@@ -419,14 +415,15 @@ hysteria2://569dda85-bc76-4f8b-ae03-609d97f9e76c@143.198.48.33:5750?insecure=1&s
 
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?insecure=1&sni=192-227-152-86.nip.io#🔒 HYSTERIA-UDP 🇺🇸 US-192.227.152.86:61001
 
+hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?insecure=1&sni=192-227-152-86.nip.io#🔒 HYSTERIA-UDP 🇺🇸 US-192.227.152.86:61001
+hysteria://208.87.243.151:17549?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-208.87.243.151:17549
+hysteria://176.32.35.226:62003?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇷🇺 RU-176.32.35.226:62003
+
 hysteria2://5CBqBh6MeDq6GajcilBiDg==@192.227.152.86:61001?insecure=1&sni=192-227-152-86.nip.io#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Buffalo%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 
 hysteria2://5gi8342LF4@156.226.175.200:52045?obfs=salamander&obfs-password=Cui080924#🔒 HYSTERIA-UDP 🇸🇨 SC-156.226.175.200:52045
 
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-209.141.47.127:3234
-
-hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-209.141.47.127:3234
-hysteria://208.87.243.151:17549?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-208.87.243.151:17549
 
 hysteria2://6b389472-9094-4c8a-a780-3d371b2eade5@45.76.82.254:25444?obfs=salamander&obfs-password=3JuQOL32nT5rUt1nNxAX&insecure=1&sni=vkvd127.mycdn.me#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 
@@ -471,6 +468,9 @@ hysteria://208.87.243.187:40528?insecure=1&peer=apple.com&auth=dongtaiwang.com&u
 
 hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@54.178.220.201:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.178.220.201:1659
 
+hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@54.178.220.201:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.178.220.201:1659
+hysteria://108.181.24.77:11512?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.24.77:11512
+
 hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@54.95.138.110:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.95.138.110:1659
 
 hysteria2://95929244-454A-46A2-A9BF-6B7E90ACEA70@54.95.138.110:1659?sni=jp1.dexlos.com#🔒 HYSTERIA-UDP 🇯🇵 JP-54.95.138.110:1659
@@ -486,9 +486,6 @@ hysteria2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&sni=www.apple.com&obfs
 hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@107.172.235.75:56381?insecure=1&sni=dxobg4azmk.gafnode.sbs#🔒 HYSTERIA-UDP 🇺🇸 US-107.172.235.75:56381
 
 hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@185.126.255.78:58944?insecure=1&sni=dxobg4azmk.gafnode.sbs#🔒 HYSTERIA-UDP 🇺🇦 UA-185.126.255.78:58944
-
-hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@185.126.255.78:58944?insecure=1&sni=dxobg4azmk.gafnode.sbs#🔒 HYSTERIA-UDP 🇺🇦 UA-185.126.255.78:58944
-hysteria://108.181.24.77:11512?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.24.77:11512
 
 hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@23.132.228.217:38746?insecure=1&sni=dxobg4azmk.gafnode.sbs#🔒 HYSTERIA-UDP 🇮🇹 IT-23.132.228.217:38746
 
@@ -582,6 +579,9 @@ hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262?insecure=1
 
 hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-170.64.222.252:52111
 
+hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇦🇺 AU-170.64.222.252:52111
+hysteria://195.154.200.40:15010?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#🔒 HYSTERIA-UDP 🇫🇷 FR-195.154.200.40:15010
+
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.241:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.23.241:443
 
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.255:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.23.255:443
@@ -604,9 +604,11 @@ trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&heade
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#Mtn-%40V2ray_Raha-12
 
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2Fproxyip%3D45.67.215.196%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2Fproxyip%3D45.67.215.196%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@104.21.64.1:443/?type=ws&host=21sWDE.7777128.xYZ&path=%2FHpYP4foAlpTKtfYnjLYhU30U&security=tls&sni=21sWDE.7777128.xYZ&allowInsecure=1&fp=chrome#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?path=%2Fproxyip%3D45.67.215.196%3A443&security=tls&host=icecream.955850.xyz&type=ws&sni=icecream.955850.xyz#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 
 trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#@meli_proxyy
 
@@ -619,10 +621,6 @@ trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp
 trojan://telegram-id-directvpn@13.39.228.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.39.228.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-trojan://telegram-id-directvpn@15.237.207.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@15.237.207.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@18.159.76.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -648,15 +646,17 @@ trojan://telegram-id-directvpn@51.44.125.229:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@51.44.45.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@52.29.139.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@63.178.153.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-privatevpns@13.36.113.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.39.228.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.237.207.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
 trojan://telegram-id-privatevpns@18.159.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
+trojan://telegram-id-privatevpns@18.159.76.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@18.184.108.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
@@ -685,6 +685,8 @@ trojan://telegram-id-privatevpns@51.44.100.175:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@51.44.125.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.45.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
+trojan://telegram-id-privatevpns@52.29.139.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.178.153.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
@@ -766,11 +768,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.191:8388#%F0%9F%87%AD%F0%9F%87%B0%20HK-103.149.182.191%3A8388🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn,%20VA,%20United%20States%20(32)🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.248.199:6679#@meli_proxyy
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@67.220.95.102:8008#%F0%9F%87%BA%F0%9F%87%B8%20Ashburn,%20VA,%20United%20States%20(12)🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@67.220.95.102:8008#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A8008🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206ZjVmMGEzZThmYTA3YjJlMg%3D%3D@198.98.60.202:2022#@meli_proxyy
 
@@ -825,6 +827,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTk4LjI1MS44My4yMDgiLCJwb3J0IjoiNDUyOTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJsdC5meGxjbi5jb20iLCJ0bHMiOiIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
+
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0OS43NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmI2NzQyNjAtMWMyMS00Zjk5LThiZDAtM2QxZDM0MWM2NzcxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NzIxMSIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBTRy04NC4yNDcuMTQ5Ljc3OjQ3MjExIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
 
 vmess://eyJhZGQiOiI0NS4xMi4xMzMuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWJlOGVkZGItNGY4Yy00NWQwLWIyYTEtZTUzOGViM2FiZDM5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyODQ0NCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4er8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
