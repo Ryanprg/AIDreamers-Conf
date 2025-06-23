@@ -322,6 +322,9 @@ hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.172.15.133:3002?sni=it.1010
 
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3001?sni=us.10101251.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:3001
 
+hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3001?sni=us.10101251.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:3001
+hysteria://208.87.243.151:17549?insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-208.87.243.151:17549
+
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002?sni=us.10101251.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.34.118:3002
 
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.77.38:3001?sni=us.10101251.xyz#🔒 HYSTERIA-UDP 🇺🇸 US-107.175.77.38:3001
@@ -407,6 +410,9 @@ hysteria2://4c0014ad-562c-4dc9-979e-4241bed0f22a@54.199.14.212:443?mport=22001-2
 
 hysteria2://4c0c889785026935@77.110.115.25:5053?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=4c0c889785026935#🔒 HYSTERIA-UDP 🇺🇸 US-77.110.115.25:5053
 
+hysteria2://4c0c889785026935@77.110.115.25:5053?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=4c0c889785026935#🔒 HYSTERIA-UDP 🇺🇸 US-77.110.115.25:5053
+hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#🔒 HYSTERIA-UDP 🇫🇷 FR-195.154.200.178:46938
+
 hysteria2://4de5bc14-2c4d-4321-8d95-e6ff3bf0f91a@1.170.215.211:16666?insecure=1#🔒 HYSTERIA-UDP 🇹🇼 TW-1.170.215.211:16666
 
 hysteria2://4de5bc14-2c4d-4321-8d95-e6ff3bf0f91a@1.170.228.14:16666?insecure=1#🔒 HYSTERIA-UDP 🇹🇼 TW-1.170.228.14:16666
@@ -441,6 +447,9 @@ hysteria2://5Cp8lmFEQN41CDIWuJhpPzH1U@143.14.221.98:9641?insecure=1&sni=bing.com
 
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?mport=55000-56000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇨 SC-154.85.18.233:443
 
+hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?mport=55000-56000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇸🇨 SC-154.85.18.233:443
+hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3#🔒 HYSTERIA-UDP 🇫🇷 FR-195.154.200.40:15010
+
 hysteria2://5gi8342LF4@156.226.175.200:52045?obfs=salamander&obfs-password=Cui080924#🔒 HYSTERIA-UDP 🇸🇨 SC-156.226.175.200:52045
 
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#🔒 HYSTERIA-UDP 🇺🇸 US-209.141.47.127:3234
@@ -462,9 +471,6 @@ hysteria2://7387bd9b-80df-49e7-b3bb-c63699f8dd8f@137.184.33.88:30001?insecure=1#
 hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#🔒 HYSTERIA-UDP 🇺🇸 US-198.23.130.211:443
 
 hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?mport=49999-65000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.34.109:443
-
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?mport=49999-65000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-104.168.34.109:443
-hysteria://176.32.35.226:62003?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#🔒 HYSTERIA-UDP 🇷🇺 RU-176.32.35.226:62003
 
 hysteria2://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@194.156.99.107:443?mport=50000-53000&insecure=1&sni=api.push.apple.com#🔒 HYSTERIA-UDP 🇭🇰 HK-194.156.99.107:443
 
@@ -554,6 +560,9 @@ hysteria2://PassWord2@45.138.99.106:8443?obfs=salamander&obfs-password=PassWord1
 
 hysteria2://VLsjPt6CDwg1IqFgvD7KN6K58Q@13.212.20.80:18447?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-13.212.20.80:18447
 
+hysteria2://VLsjPt6CDwg1IqFgvD7KN6K58Q@13.212.20.80:18447?insecure=1#🔒 HYSTERIA-UDP 🇸🇬 SG-13.212.20.80:18447
+hysteria://108.181.24.77:11512?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#🔒 HYSTERIA-UDP 🇺🇸 US-108.181.24.77:11512
+
 hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&insecure=0#🌟@𝙎𝙞𝙉𝘼𝙑𝙈👈🏻کانال تلگرامی
 
 hysteria2://a278eadd-c35c-403f-a286-7767a74307c1@45.140.169.231:8080?insecure=1&sni=www.eliv2ray.net#🔒 HYSTERIA-UDP 🇷🇺 RU-45.140.169.231:8080
@@ -575,12 +584,6 @@ hysteria2://aVJxAd6WSF@77.90.135.64:33530?obfs=salamander&obfs-password=bluecrys
 hysteria2://aa068abd-f858-4fdf-b7c2-101947f160cb@65.49.60.38:443?mport=20201-20299#🔒 HYSTERIA-UDP 🇺🇸 US-65.49.60.38:443
 
 hysteria2://aaf7a87d-ef38-433e-b86e-07ddea14fac4@154.21.206.251:55462?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-154.21.206.251:55462
-
-hysteria2://ab78be87@45.192.243.159:2022?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇯🇵 JP-45.192.243.159:2022
-
-hysteria2://b0pkiuXmIQsEQD9W_yT5rsGr@3.38.178.112:443?insecure=1&sni=www.cloudflare.com#🔒 HYSTERIA-UDP 🇰🇷 KR-3.38.178.112:443
-
-hysteria2://b0pkiuXmIQsEQD9W_yT5rsGr@35.75.9.110:443?insecure=1&sni=www.cloudflare.com#🔒 HYSTERIA-UDP 🇯🇵 JP-35.75.9.110:443
 
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@www.speedtest.net:443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrhRl2EYQKIyl0TZ2d%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&sni=InViNCible.FAFa20.sHop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%252525202%25252520-%25252520Trojan%25252520-%25252520Domain%25252520:%25252520443
 
@@ -626,9 +629,13 @@ trojan://telegram-id-directvpn@13.39.4.140:22223?security=tls&alpn=http/1.1&head
 
 trojan://telegram-id-directvpn@13.39.72.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@13.39.72.77:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://telegram-id-directvpn@15.236.173.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.194.77.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@18.194.77.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 trojan://telegram-id-directvpn@18.197.223.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -764,15 +771,11 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.93.113:9101🤯 Get 1 year premiu
 
 ss://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@ae.aparat-movies-download.ir:42539?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#@VIProxys
 
-ss://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@gb.france-learns.ir:42536?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#@VIProxys
-
 ss://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@germany.france-learns.ir:8880?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#@VIProxys
 
 ss://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@nim.france-learns.ir:42535?security=none&type=tcp&headerType=http&path=%2F&host=cafebazaar.ir#@VIProxys
 
 ss://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@paris.france-learns.ir:42541?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#@VIProxys
-
-ss://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@tr.france-learns.ir:42540?security=none&type=tcp&headerType=http&path=%2F&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#@VIProxys
 
 ss://cca45b57-0f24-43c8-8911-f8dab5af1e10@104.21.10.25:8880?type=ws&host=0522.yeyefeng.dpdns.org&path=%2F#@VIProxys
 
@@ -800,6 +803,8 @@ ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.187:8880?sni=us.laoyoutiao.l
 
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.248:8880?type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@VIProxys
 
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.5:8880?security=none&type=ws&host=sk.laoyoutiao.link&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40MxlShare%2520%40WangCai2%2520%2F#@VIProxys
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5BU05FVCB8IDEgfCBFbWVyZ2VuY3kiLA0KICAiYWRkIjogIm5wbWpzLmNvbSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAic3l5ZWl5cHZwdiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInN5eWVpeXB2cHYtMTYyMTkyMzkyMDQua2hhc3RlaG5hYmFzaGkuY29tIiwNCiAgInBhdGgiOiAiL292aC9jZG4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5BU05FVCB8IDIgfCBFbWVyZ2VuY3kiLA0KICAiYWRkIjogIm5wbWpzLmNvbSIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAia2U3aHozNmV3eiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLA0KICAicGF0aCI6ICIvbmFzbmV0L2NkbiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
@@ -810,11 +815,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5BU05FVCB8IDcgfCBFbWVyZ2VuY3kiLA0KICAi
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInZtZXNzLUJCMiIsDQogICJhZGQiOiAiMTcyLjY3LjczLjQ1IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNWE5NjI0ODUtNDFmNy00YjUwLWFmNjYtMWI1Yzk3NjdlYWUxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoMy5nckFzU29SeS5zaG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 
-vmess://eyJ0bHMiOiJub25lIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzExNyIsImlkIjoiZDYzZDBhZDQtZjQ2MC00NmQ2LTlmYTktZGY1NmI3YWQwY2ZlIiwic2N5IjoiYXV0byIsImFkZCI6ImNkbjQuYXZpc25ldHMubmwiLCJob3N0IjoiIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0eXBlIjoibm9uZSJ9
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQ04tMTIwLjE5OC43MS4yMTQ6NDExNzUiLCAiYWRkIjogIjEyMC4xOTguNzEuMjE0IiwgInBvcnQiOiAiNDExNzUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQ04tMjE5LjE1MS4yMC42Mjo0MjM0OSIsICJhZGQiOiAiMjE5LjE1MS4yMC42MiIsICJwb3J0IjogIjQyMzQ5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJqcDA4bmhqeC5kb25nZmFuZ3lpaGFvLnh5eiIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBDTi0xMTEuMjYuMTA5Ljc5OjMwODI5IiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAzMDgyOSwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAib2NiYy5jb20iLCAicGF0aCI6ICIvb29vbyIsICJ0bHMiOiAiIn0=
 
@@ -857,8 +858,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNCB8IOKsh++4jyAzLjRNQi9zIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNiB8IOKsh++4jyAzLjJNQi9zIiwiYWRkIjoiZ3MwMy0xLmd1b3NoaTE1MjAuY29tIiwicG9ydCI6NDQzLCJpZCI6IjgyZmY2ZDMwLTI5MjAtNGViZC1iOTVjLWIwMTZlZGUxYTg0MSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiZ3MwMy0xLmd1b3NoaTE1MjAuY29tIiwicGF0aCI6Ii84MmZmNmQzMCIsImhvc3QiOiJnczAzLTEuZ3Vvc2hpMTUyMC5jb20ifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yNyB8IOKsh++4jyAxLjRNQi9zIiwiYWRkIjoidGltZS5pcyIsInBvcnQiOjQ0MywiaWQiOiJiNTI2OTI2ZC0xNDc0LTRmNDEtOTg1ZS04Yjg3N2NiODQwY2QiLCJ0eXBlIjoiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoidGltZS5pcyIsInBhdGgiOiIvIiwiaG9zdCI6InNoczExMS5rZWppeGlhb3FpNjY2LnN0b3JlIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMi41OC44Ny4yMjEiLCJwb3J0IjoiNDY2MjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjZiYTllNWEtNzExYy00OTZmLWJlNjAtYWM1NDY0ZGVjMmI4IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOiI0MjM0OSIsInR5cGUiOiJub25lIiwiaWQiOiI0MzgxYmVhZS00NWE2LTQ0MjEtODU0Ny02NWUzMTJkZDIwNGEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6ImpwMDhuaGp4LmRvbmdmYW5neWloYW8ueHl6IiwidGxzIjoiIn0=
 
