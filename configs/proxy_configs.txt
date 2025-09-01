@@ -88,6 +88,8 @@ vless://232445dd-df97-4807-99ec-2695a09b3988@63.141.128.16:80?path=%2FJoin-ZEDMO
 
 vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&sid=f430927d&type=tcp&headerType=none#%40vmessprotocol%20%D8%AC%D9%88%DB%8C%D9%86%20
 
+vless://24984e27-b731-4ee3-84e5-a143472d3620@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=aztarafehajnane.com&type=xhttp#%40flyv2ray
+
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?path=%2F&security=tls&encryption=none&host=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&sni=JuOf8QfKy3.VpBeThOrVp002.InFo#@meli_proxyy
 
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@meli_proxyy
@@ -134,7 +136,7 @@ vless://3668c58e-63f9-41d9-af93-ea4eaefde81b@78.47.216.178:8443?security=reality
 
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🏀
 
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌳
+vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=%2Fsg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🔥
 
 vless://3afc3fc3-2ae4-4f76-928d-30fe47f5e6d6@104.17.147.22:443?path=%2F%2FJoin---PLANB_PROXY%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=1z7cvlxvwpoqgvksg5f3zvq0xciifo2b.pages.dev&fp=chrome&type=ws&sni=pages.dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌂
 
@@ -248,7 +250,7 @@ vless://5fe68e53-f50f-4c1b-8107-39b1c0957dc6@63.141.128.23:8080?path=%2FJoin-ZED
 
 vless://65365035-e08b-46e1-982c-121e1a855c86@91.99.115.173:443?mode=gun&security=reality&encryption=none&pbk=mEzwGx3LUXPR-sw8RFmlGM_ctzTwPlgq-mxku4wtBnc&fp=chrome&type=grpc&serviceName=Ki5km8BGk5eqaB0Q1qI&sni=snapp.ir&sid=c1#@meli_proxyy
 
-vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🟠
+vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D2048&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍒
 
 vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@172.67.74.133:443?path=%2Fsg3%3Fed%3D2560%2F%3FJKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=randomized&type=ws&sni=blog.ruangguru.com.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍓
 
@@ -257,8 +259,6 @@ vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@blog.ruangguru.com.servpn.my.id:443
 vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@104.26.6.89:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.parsdl.xyz&fp=chrome&type=ws&sni=parsdl.xyz#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fhajmi%3Fed%3D2050&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.zzula.ir&fp=chrome&type=ws&sni=zzula.ir#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-vless://66683d2c-ae9c-427e-be17-4aa54a248d7b@www.speedtest.net:2095?path=%2Fhajmi%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=none&encryption=none&host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.85858569.xYz.&type=ws#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.0.108:443?path=%2Fid5%3Fed%3D2560%2F%3FMTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🌈
 
@@ -655,6 +655,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc%3D@77.83.245.191:443#@meli_proxyy
 
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40outlinereleasedkey%20%5B17%5D🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#@meli_proxyy
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20@OutlineReleasedKey🔸Outline Keys🔸Vless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
@@ -664,6 +666,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443?prefix=%16%03%01%00%C2%A
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20@OutlineReleasedKey🔸Outline Keys🔸Vless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443?prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20@OutlineReleasedKey🔸Outline Keys🔸Vless|Trojan|Hysteria1/2|TUIC Keys#Outline #Shadowsocks #VPN #FreeVPN
+
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.131:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.131-0193🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#%F0%9F%92%A039%40oneclickvpnkeys
 
@@ -727,8 +731,6 @@ trojan://telegram-id-privatevpns@13.39.0.130:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@15.188.191.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.188.191.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@15.188.66.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.15.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
@@ -769,7 +771,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRk
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICIxMzYuMjQzLjExMC4yMjQiLCAicG9ydCI6ICIxMDAiLCAiaWQiOiAiM2UzZjM0YTUtNWNiMS00ZmY2LWI3MjUtODhjZTI3Mjg0ZTkxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICIxMjUifQ==
 
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJhaWQiOiAwLCAiaG9zdCI6ICJjaHVuY2h1YW4ua2VqaXhpYW9xaTY2Ni5zdG9yZSIsICJpZCI6ICJlNjU0MzMxOS0wNTc0LTQyYWMtYjc3OC0xYzQzMjVkNjI2ZjUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJ2IjoiMiIsImFkZCI6Im1yZ29sZC5pcmFubWFuLnNob3AiLCJwb3J0Ijo1MjA2NSwiaWQiOiJmMjllYTc3Yy02ODQyLTRlZTAtOWZjMS05YzdhODcxNTY2YjIiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6Im5vbmUiLCJwYXRoIjoiXC8iLCJob3N0IjoiYndtLmNvbSIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQGdvbGRlbnZwbl92MnJheXkgWzJdIn0
 
 vmess://eyJhZGQiOiI0My4xOTkuMjQuMjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYi56aHVhbnNodS5jb20iLCJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMwMDAiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
@@ -850,6 +852,8 @@ vmess://eyJhZGQiOiJhZXJ5cml4c3A2MzB3dzEubG92ZWJhaXBpYW8ubmV0IiwiYWlkIjoiMCIsImFs
 vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJzMS5naG9zdHJrci5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjYzM2IwNmYtNzM3YS00ZTBmLTk5NmMtNTEwMDVhMGE0OWIxIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJAR2hvc3RyYXlfTkciLCJwb3J0IjoiODg4MCIsInBzIjoi4pyF2LPYsdmI2LHZh9in24zYqNuM2LTYqtix2K/Ysdqp2KfZhtin2YQ6cHJyb2ZpbGVfcHVycGxlQOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJzMy5pcHlhci5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzhiNGZiNTctMzlkNy00ZTlkLWRkMzgtYzlhMzgzMjJiY2IyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMjAyMCIsInBzIjoiQHYycmF5MzEzINqp2KfZhtin2YTZhdmI2YYg8J+SiyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
 
