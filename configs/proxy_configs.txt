@@ -178,9 +178,9 @@ vless://3ce4817f-9bab-47f1-9df5-1b037b35cbed@94.177.147.79:38745?security=none&e
 
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%2F%3F-ShadowProxy66&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🔵
 
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D2048&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🧃
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?path=%2Fsg3%3Fed%3D2560%2F%3Fed%3D2048&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=randomized&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍉
 
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3Fed%3D2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🚚
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3Fed%3D2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🥤
 
 vless://3ed60fc0-f13d-490a-a244-c827a8a8b1e5@172.67.150.132:443?path=%2Fj4Wxk3KUHJho91NIJLrX&security=tls&alpn=http%2F1.1&encryption=none&host=wwwwwdrt.444682.xyz&type=ws&sni=wwWwWDrt.444682.XyZ#%40Daily_Configs
 
@@ -609,8 +609,6 @@ trojan://slch2024@194.59.5.195:2096?path=Telegram&security=tls&host=ocost-dy.wml
 
 trojan://telegram-id-directvpn@13.36.249.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.36.249.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 trojan://telegram-id-directvpn@13.38.193.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.38.239.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
@@ -645,8 +643,6 @@ trojan://telegram-id-directvpn@63.177.223.143:22223?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@63.177.223.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@63.177.223.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 trojan://telegram-id-privatevpns@13.36.249.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.36.249.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
@@ -656,6 +652,8 @@ trojan://telegram-id-privatevpns@13.38.193.247:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.38.239.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.39.55.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
+trojan://telegram-id-privatevpns@13.39.55.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@15.188.171.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
@@ -794,8 +792,6 @@ vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI4OS40Ni4yMzUuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNmYThjMmE1LTUxOTYtNDNjYi1iNTRiLWUzOTFiMjgzODgzNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiI4OS4xNjkuMTMuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjlkM2M0MTQtODljYy00NTVkLWI3MTctMTBjN2NhMTY2NWExIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyODgzOCIsInBzIjoiQ2hhbm5lbCBpZDogQHByb3h5X2thZmVl8J+Hs/Cfh7EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI5MS4xMDcuMjQ3LjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGVsZXdlYmlvbi5jb20iLCJpZCI6IjE2MDc4MzFmLWYwYzItNDVlZC04NjIxLTI1OTA5YzZhMDhhOCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI3NjgyIiwicHMiOiJAVjJyYXlOR1ZQTiBcdTAwM2NcdTAwM2Qg2qnYp9mG2YHbjNqvINix2KfbjNqv2KfZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
