@@ -581,11 +581,13 @@ vless://Parsashonam-305@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 
 vless://Parsashonam-305@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🦀
 
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&sni=eats-rigor-judge.stark-industries.solutions&allowInsecure=1&fp=chrome&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://157bbeb0-489f-11f0-ab40-1239d0255272@usa.test3.net:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://1DpX3uwrDN@oa.mahiro.online:53489?security=reality&sni=apple.com&fp=chrome&pbk=gzKNYYhWrRwfhNGyHZIenBgq6VJrNWN5IqjCNfpKHgg&sid=defa357e77&spx=/euhdqwejwqpekowqopw&type=grpc&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org&path=%2f#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?security=tls&sni=data.sub-zrj.com&fp=chrome&type=tcp&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://34dea460-bad1-11ed-94f5-1239d0255272@163.172.211.74:443?security=tls&sni=tci.ir&allowInsecure=1&fp=chrome&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
@@ -743,6 +745,10 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1HaG9zdHJheSIsCiAgImFkZCI6ICJz
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkzMDIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBDTiB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBtZnRpemkgWzIwXSJ9
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoibGFtbWFsYW5kLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJhbHBuIjoiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiczMuZ2hvc3Rya2Uuc2JzIiwicG9ydCI6ODg4MCwiaWQiOiI3MTI0Y2MzMC1iNzUxLTQ3YzUtYjg3YS0wMmRiOGM2N2NlNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInRscyI6Im5vbmUiLCJwYXRoIjoiQEdob3N0cmF5X05HIiwiYXV0aG9yaXR5IjoiIn0=
+
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoieGMxMjUtMS5tZWl6aWJhNTU2Ni5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNmI5NWQzNDAtMzBhNS00N2JkLWFjNTMtNDk1ODRlNWQ0ZGRmIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4YzEyNS0xLm1laXppYmE1NTY2LmNvbSIsInBhdGgiOiJcLzZiOTVkMzQwIiwiaG9zdCI6InhjMTI1LTEubWVpemliYTU1NjYuY29tIn0=
 
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjFlNDI2MDQ2LXQwZmRzMC10MTJjbmotMW9sOTcuaGsucDVwdi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI5M2ZiNjlmYy03N2NmLTExZWUtODVlZS1mMjNjOTEzNjlmMmQiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
@@ -812,6 +818,8 @@ vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJm
 vmess://eyJhZGQiOiJpci5zdmdzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJza3lyb29tLm9ubGluZSIsImlkIjoiNDFjOTFiODUtNjZiYi00YWE3LWE3ZjUtZTMwZWM4MmNmZmFiIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjM4OTYwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6Ilx1Mjc1NCBYWCB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBzYXZhZ2VuZXQgWzJdIn0
 
 vmess://eyJhZGQiOiJsYW1tYWxhbmQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFNlbGluYyIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJtYXNqaWRlLm9yZyIsImFpZCI6MSwiaG9zdCI6Im1hc2ppZGUub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Im1hc2ppZGUub3JnIn0=
 
 tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
 
